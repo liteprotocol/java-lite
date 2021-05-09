@@ -2,7 +2,7 @@
   <br>
   <img width=20% src="https://github.com/tronprotocol/wiki/blob/master/images/java-tron.jpg?raw=true">
   <br>
-  java-tron
+  java-lite
   <br>
 </h1>
 
