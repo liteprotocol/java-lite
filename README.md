@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">
-  Java implementation of the <a href="https://tron.network">Tron Protocol</a>
+  Java implementation of the <a href="https://lite.llc">Lite Protocol</a>
 </h4>
 
 
@@ -50,7 +50,7 @@
   <a href="#Resources">Resources</a>
 </p>
 
-## What's TRON?
+## What's LITE?
 
 TRON is a project dedicated to building the infrastructure for a truly decentralized Internet.
 
