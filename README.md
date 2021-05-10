@@ -54,7 +54,7 @@
 
 LITE is a project dedicated to building the infrastructure for a truly decentralized Internet.
 
-* Lite Protocol, one of the largest blockchain-based operating systems in the world, offers scalable, high-availability and high-throughput support that underlies all the decentralized applications in the TRON ecosystem.
+* Lite Protocol, one of the largest blockchain-based operating systems in the world, offers scalable, high-availability and high-throughput support that underlies all the decentralized applications in the LITE ecosystem.
 
 * Lite Virtual Machine (LVM) allows anyone to develop decentralized applications (DAPPs) for themselves or their communities with smart contracts thereby making decentralized crowdfunding and token issuance easier than ever.
 
