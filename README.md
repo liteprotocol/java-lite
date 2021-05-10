@@ -86,7 +86,7 @@ If you'd like to contribute to java-lite, please read the following instructions
 * [Wallet-cli](https://github.com/liteprotocol/wallet-cli) LITE network wallet using command line.
 * [LIP](https://github.com/liteprotocol/lips) LITE Improvement Proposal (LIP) describes standards for the LITE network.
 * [LP](https://github.com/liteprotocol/lips/tree/master/lp) LITE Protocol (LP) describes standards already implemented in LITE network but not published as a LIP.
-* [White Paper](https://lite.llc/resources?lng=&name=1) White paper of TRON network.
+* [White Paper](https://lite.llc/resources?lng=&name=1) White paper of LITE network.
 
 # License
 java-lite is released under the [LGPLv3 license](https://github.com/liteprotocol/java-lite/blob/master/LICENSE).
