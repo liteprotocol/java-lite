@@ -80,7 +80,7 @@ If you'd like to contribute to java-lite, please read the following instructions
 
 # Resources
 * [Medium](https://medium.com/@litellc) java-lite's official technical articles are published there.
-* [Documentation](https://liteprotocol.github.io/documentation-en/introduction/) java-tron's official technical documentation website.
+* [Documentation](https://liteprotocol.github.io/documentation-en/introduction/) java-lite's official technical documentation website.
 * [Test network](http://test.lite.llc) A stable test network of LITE contributed by LITE community.
 * [Litescan](https://litescan.org/#/) LITE network blockchain browser.
 * [Wallet-cli](https://github.com/liteprotocol/wallet-cli) LITE network wallet using command line.
