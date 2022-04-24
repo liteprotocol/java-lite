@@ -1,4 +1,4 @@
-# Tron Protocol 
+# Lite Protocol 
 
 ## Overview 
 
