@@ -2,7 +2,7 @@
 
 ## Overview 
 
-This is the description of  Google Protobuf implementation of Tron's protocol.
+This is the description of  Google Protobuf implementation of the Lite Protocol.
 
 ## Contents 
 
